@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2154dfb-f056-4d7a-8ca2-73b891e699f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/apiTesting.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/api/PlayerAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/api/PlayerAPI.java" afterDir="false" />
-    </list>
+    <list default="true" id="b2154dfb-f056-4d7a-8ca2-73b891e699f0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -207,6 +204,12 @@
               <item name="SimpleQADemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SimpleQADemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SimpleQADemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SimpleQADemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542658386132" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542660134311" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -244,6 +247,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="api.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -337,7 +343,7 @@
       <option name="presentableId" value="Default" />
       <updated>1542648362792</updated>
       <workItem from="1542648366870" duration="7663000" />
-      <workItem from="1542658916439" duration="464000" />
+      <workItem from="1542658916439" duration="1075000" />
     </task>
     <servers />
   </component>
@@ -374,11 +380,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8127000" />
+    <option name="totallyTimeSpent" value="8738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-35" width="1922" height="1116" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
